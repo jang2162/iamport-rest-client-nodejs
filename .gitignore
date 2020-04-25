@@ -8,3 +8,4 @@ node_modules
 
 # JetBrains IDE configuration files
 .idea
+/iamport-rest-client-nodejs.iml
